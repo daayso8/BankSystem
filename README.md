@@ -1,1 +1,2 @@
 # BankSystem
+A simple C++ file that handles the deposit and withdrawal of an account. It provides error handling and has functionalities such as depositing and withdrawing money, checking balance, and showing transaction history. 
